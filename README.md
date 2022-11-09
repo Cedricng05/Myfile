@@ -1,6 +1,6 @@
 # Myfile
 Mon premier depot distant avec Git pour mon fichier texte
-En description, il éetait question de réaliser un projetgit dans lequel l'étudiant va insérer ses informations et de le sauvegarder à la fois en local et à distant.
+En description, il était question de réaliser un projetgit dans lequel l'étudiant va insérer ses informations et de le sauvegarder à la fois en local et à distant.
 Pour la réalisation de ce projet, nous avons eu à utiliser l'outil Git via la console Gitbash
 Dans un premier temps nous avons tot d'abord initialiser notre projet en utilisant la commande "git init"
 Par la suite pour plus de securité et conformité nous avons configuré le projet en y ajouter un nom, email et adress d'utilisateur via les commandes "git config --global user.name", git config --global user.email" et "git config --global user.address"
